@@ -1,3 +1,14 @@
+# Functionality  
+Create task manager web application with features like
+ 
+1) Create task with the title, description, date, status( pending,in progress, completed)
+2) Display the task as a table format or one by one.
+3) Implement features like filters the tasks based on status.
+4) One more feature is to edit and delete task.
+
+*Store the tasksList in the localStorage is mandatory
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
